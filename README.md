@@ -1,6 +1,6 @@
 # BOON: Boundary correction for neural operators
 
-![Image](resources/operator_bdy.PNG)
+![Image](resources/operator_bdy.png)
 
 Nadim Saad*, Gaurav Gupta*, Shima Alizadeh, Danielle C. Maddix\
 **Guiding continuous operator learning through Physics-based boundary constraints**\
